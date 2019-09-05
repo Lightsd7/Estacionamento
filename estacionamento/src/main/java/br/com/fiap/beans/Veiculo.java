@@ -1,6 +1,7 @@
 package br.com.fiap.beans;
 
 public class Veiculo {
+
 	private String placa;
 	private String marca;
 	private String modelo;
@@ -31,6 +32,4 @@ public class Veiculo {
 	public Veiculo() {
 		super();
 	}
-	
-
 }

@@ -42,5 +42,4 @@ public class Valet {
 	public Valet() {
 		super();
 	}
-	
 }

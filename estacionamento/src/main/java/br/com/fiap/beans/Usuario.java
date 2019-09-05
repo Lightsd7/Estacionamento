@@ -1,7 +1,7 @@
 package br.com.fiap.beans;
 
 public class Usuario {
-
+	
 	private String nome;
 	private String email;
 	private String senha;
@@ -32,4 +32,5 @@ public class Usuario {
 	public void setSenha(String senha) {
 		this.senha = senha;
 	}
+
 }
